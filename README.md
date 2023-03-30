@@ -1,13 +1,14 @@
 @manogray
 👨🏻‍💻🤖📱🎮
 
-Yes, here it's manogray. I'm programmer, InfoSec enthusiastic. I already worked with Web Development (Fullstack), Mobile Development and Embbeded Systems development. I always open to learn a new tool, as I like to say, you have to study the process not the tool.
+Yes, here it's manogray. I'm programmer with a heavy experience on automated software testing. Large experience on web development (backend, frontend and infra) and hybrid mobile development. Also I'm InfoSec enthusiastic and already worked with some projects of Embbeded Systems. I always open to learn a new tool to improve my process, as I like to say, you have to study the process not the tool.
 
 ## Main Skills
 ```javascript
+Automated Software Testing = ['Python']
+Embbeded Systems = ['Arduino', 'ESP32', 'Raspberry']
+Infrastructure = ['Docker', 'Docker Compose', 'Docker Machine', 'AWS']
+InfoSec = ['aircrack-ng']
 Web Backend = [ 'PHP', 'Node.js' ]
 Web Frontend = ['ReactJS', 'VueJS', 'Handcraft']
-Infrastructure = ['Docker', 'Docker Compose', 'Docker Machine']
-Embbeded Systems = ['Arduino', 'ESP32', 'Raspberry']
-InfoSec = ['aircrack-ng']
 ```
